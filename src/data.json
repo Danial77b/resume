@@ -1,0 +1,45 @@
+{
+    "title":    "Hello, I'm Danial!",
+    "subtitle": "Project For maktabkhooneh...",
+    "links": {
+        "github":   "https://github.com/",
+        "linkedin": "https://t.me/Wehrmacht7731"
+    },
+    "sections": [
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "I'm fast to learn and I love web development. Thanx for reaching me out"
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "/images/code.png",
+                        "title": "HTML"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "/images/brackets.png",
+                        "title": "CSS"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "/images/bracket.png",
+                        "title": "JS"
+                    }
+                }
+            ]
+        }
+    ]
+}
