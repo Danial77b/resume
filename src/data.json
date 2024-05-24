@@ -21,21 +21,21 @@
                 {
                     "type": "card",
                     "content": {
-                        "image": "/images/code.png",
+                        "image": "static/images/code.png",
                         "title": "HTML"
                     }
                 },
                 {
                     "type": "card",
                     "content": {
-                        "image": "/images/brackets.png",
+                        "image": "static/images/brackets.png",
                         "title": "CSS"
                     }
                 },
                 {
                     "type": "card",
                     "content": {
-                        "image": "/images/bracket.png",
+                        "image": "static/images/bracket.png",
                         "title": "JS"
                     }
                 }
