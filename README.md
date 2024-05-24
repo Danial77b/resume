@@ -1,2 +1,1 @@
-# resume
-# resume
+# static files for pages
